@@ -1,0 +1,11 @@
+{
+  "name": "dynamic_message",
+  "version": "1.0.0",
+  "description": "script for annual message with dynamic year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Chrisman",
+  "license": "ISC"
+}

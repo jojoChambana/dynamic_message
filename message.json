@@ -1,0 +1,4 @@
+{
+    "ccTransmittal": "<p style=\"font-weight:bold\">Online credit card gifts for calendar year <span id=\"year\"></span> may be made via the UIF credit card transmittal until 11:59 p.m. CST on December 31. Transactions received after 11:59 p.m. CST on December 31 will be calendar year <span id=\"nextYear\"></span> gifts.</p>",
+    "otherPaymentPages": "<p style=\"font-weight:bold\">Online credit card gifts for calendar year <span id=\"year\"></span> may be made via the giving website until 11:59 p.m. CST on December 31. Transactions received after 11:59 p.m. CST on December 31 will be calendar year <span id=\"nextYear\"></span> gifts.</p>"
+}
